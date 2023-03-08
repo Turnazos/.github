@@ -6,3 +6,6 @@ Based in Argentina, we are a group of enthusiasts developers working full-time i
 
 ## What is the project about?
 For now the project is top secret, until we don't have a MVP, we are not spreading the next big unicorn idea...
+
+## Get in touch
+If you want to know more about us, contact us through email at marcosnicolau963@gmail.com, or via phone at +54 011 15-6827-5875  
